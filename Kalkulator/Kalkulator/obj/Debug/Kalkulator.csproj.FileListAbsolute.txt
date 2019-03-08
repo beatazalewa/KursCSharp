@@ -1,0 +1,16 @@
+C:\Users\Student\Documents\Visual Studio 2008\Projects\Kalkulator\Kalkulator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2008\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Form1.resources
+C:\Users\Student\Documents\Visual Studio 2008\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\Student\Documents\Visual Studio 2008\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.Cache
+C:\Users\Student\Documents\Visual Studio 2008\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\Student\Documents\Visual Studio 2008\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\Student\Documents\Visual Studio 2008\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\Student\Documents\Visual Studio 2008\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+E:\Inne\_ProjektyVisualStudio\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+E:\Inne\_ProjektyVisualStudio\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+E:\Inne\_ProjektyVisualStudio\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csprojResolveAssemblyReference.cache
+E:\Inne\_ProjektyVisualStudio\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Form1.resources
+E:\Inne\_ProjektyVisualStudio\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+E:\Inne\_ProjektyVisualStudio\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.Cache
+E:\Inne\_ProjektyVisualStudio\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+E:\Inne\_ProjektyVisualStudio\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
